@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [nano-banana-2-lite-api-id](https://github.com/dz2oqx/nano-banana-2-lite-api-id)
+- **Same model, other languages** — 9 more language builds: 中文 [nano-banana-2-lite-api-cn](https://github.com/iur08dy-c157/nano-banana-2-lite-api-cn) · Deutsch [nano-banana-2-lite-api-de](https://github.com/k3idrzqs5wbuf/nano-banana-2-lite-api-de) · Español [nano-banana-2-lite-api-es](https://github.com/chz6q2o7d/nano-banana-2-lite-api-es) · Français [nano-banana-2-lite-api-fr](https://github.com/fz350t/nano-banana-2-lite-api-fr) · Relay/gateway [nano-banana-2-lite-api-gateway](https://github.com/tjk4cf/nano-banana-2-lite-api-gateway) · 日本語 [nano-banana-2-lite-api-ja](https://github.com/yv-kf9hls0kr/nano-banana-2-lite-api-ja) · 한국어 [nano-banana-2-lite-api-ko](https://github.com/rguc5r0zdtlm/nano-banana-2-lite-api-ko) · Português [nano-banana-2-lite-api-pt](https://github.com/mxtkvc6u/nano-banana-2-lite-api-pt) · Русский [nano-banana-2-lite-api-ru](https://github.com/nkdje/nano-banana-2-lite-api-ru)
+- **More models in this language** — [midjourney-api-id](https://github.com/cvrwq0/midjourney-api-id) · [gemini-2-5-flash-image-preview-api-id](https://github.com/gmrg0s/gemini-2-5-flash-image-preview-api-id) · [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · [gemini-3-1-flash-image-preview-api-id](https://github.com/p61qrgpg/gemini-3-1-flash-image-preview-api-id) · [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · [gemini-3-pro-image-preview-api-id](https://github.com/s78ve5v4x9ji2/gemini-3-pro-image-preview-api-id)
+- **Topic hubs** — every build of this model, all languages: [nano-banana-2-lite](https://github.com/topics/nano-banana-2-lite) · [nano-banana-2-lite-api](https://github.com/topics/nano-banana-2-lite-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
